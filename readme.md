@@ -1,5 +1,3 @@
-Here's the content translated into English:
-
 # Snippets
 #### William Enrique Salguero Camey
 #### Fullstack developer
@@ -18,7 +16,6 @@ Clear descriptions and a concise structure.
     - [Python](#python)
     - [Java](#java)
 4. [Contributing](#contributing)
-5. [License](#license)
 
 ## 🚀 Installations
 
@@ -75,7 +72,3 @@ public class HelloWorld {
 ## 🤝 Contributing
 
 You can contact me or make a pull request to the repository.
-
-## 📝 License
-
-This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
